@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\1632f461cb5a8c86c9a2f56e16b37fe67afc9905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_e95da42ffdb03754b4ad8304d49f59408ebef22d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\6c2cb60b470f3448554b1d47697a15579276e9ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_f73862310955b5e2e7bd9e5386aa4db5da807b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\83dc8e5787fa219a81da3a14ce63c81e132d54d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_f3d2540859c408d4a7e0eef7643d5e4a4b6ad99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_17d48f5286c6edc3daa1814b63cc952dcea5b9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\6585424c51344c61cc7c4ba8fca89337b71d72db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_8ea8b78f8110baf06f21e03d0409aa5c58083bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\8b9751231422b8189883b4f2909d74334d89f925\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_4402c8ad50ff72052f8b80e5761fef98aa533e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\977e5c0575f45e4b064c42f58e474eba8779a3d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_a217306750beed7eed2c05741aba14285f2693bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\693da25b7b1ab0745f65e7bc60593326c72d73a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_c80415262c5f530a09f91ccd873d42745f517ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\35968601c518f4bed4bd73fbf9a5964098d1423d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_2ca419856e033483f1e7f38848017185164899cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\video-live\vitamio\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f158bce9b52ca1f23796765d26584004306a5230">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_b5da862e41e1bf960a93adb4dba2b5dcf25c0d2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\383c48aff30dfc1c6df51ac1a9eae412eb08a6a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_babe36f8bf194f9ae80b6483b04517618ab28de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\107f51cfaf1f5d1110dbf156b0bff2119656bc8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_cedca62c4f96941b560855c7f429411f622d6e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\cc2032e0efdbc9aa5122de77b768a5d79361d4d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_a3d2545fbb59b1250d66ed38d3f9ec88066f5a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\d1d0f5452c9a9ddc558ccdd5730d054ad6e9e4d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_4e2a838a8f00e1e045608449d13dbb87e10fa284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\61ca5ff7d71608d9fc89ee914a2b8eebbc19f821\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="35c68016ea23ba9b7ebbfa52681de960831a77b5">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_59bbbce403063086fe657ed5d91d8cf0bdb1cdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\14fe13e3d21550147ebf33b695b8a7262290ef78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_c384cd8fc8b68d3ec1e1e50e0088fadd27da4ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\809cf9fc82f251d488f85943e7056c513e67a544\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_bdaf99d5a6e2d49ca9eec1522502e792622261b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\33e001e8f7b884d43b4c029b8f0043ac6ec72ecf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_d49373f6664599522da0118dcabe51fbf9cf686c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\88024b185ee3a8972a7569bb9d288971cde3a7a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_141d27f85662e9da82ce583c643df7de53ce4d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\.android\build-cache\cf89f8614868f1bbeea1bbd7373ac2c9b75e991e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\video-live\app\build\intermediates\pre-dexed\debug\classes_5422e1c1faab8d2e6bc59d5b11b0c67f6bb2d306.jar" />
+    </item>
+
+</items>

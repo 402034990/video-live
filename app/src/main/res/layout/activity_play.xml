@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.meng.videolive.ui.PlayActivity">
+
+    <io.vov.vitamio.widget.VideoView
+        android:id="@+id/vtm_vv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <master.flame.danmaku.ui.widget.DanmakuView
+        android:id="@+id/danmakuView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:id="@+id/view_control"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#20000000"
+        android:visibility="invisible">
+
+        <Button
+            android:id="@+id/btn_back"
+            android:text="@string/finish_play"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:background="@android:color/transparent" />
+
+        <Switch
+            android:id="@+id/swch_danmu"
+            android:text="@string/switch_danmu"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="20dp"
+            android:background="@android:color/transparent" />
+
+        <ImageButton
+            android:id="@+id/ib_heart"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:scaleType="centerCrop"
+            android:layout_below="@+id/swch_danmu"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="40dp"
+            android:layout_marginTop="40dp"
+            android:background="@android:color/transparent"/>
+    </RelativeLayout>
+</RelativeLayout>
